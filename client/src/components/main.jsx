@@ -5,8 +5,6 @@ import profilePicture from "./media/assets/profile_pic.jpg";
 
 const center = "center-align";
 class Main extends Component {
-    state = {};
-
     render() {
         return (
             <div className={center}>
